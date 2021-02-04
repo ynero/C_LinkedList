@@ -2,6 +2,10 @@
 #include <stdio.h>
 #include "LinkedList.h"
 
+/*************************************************************
+By Oren Yair
+Simple main to test the implementation
+**************************************************************/
 int main()
 {
 	struct LinkedList ll;

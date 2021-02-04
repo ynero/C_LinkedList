@@ -1,7 +1,9 @@
 
 #include <stdio.h>
 #include "LinkedList.h"
-
+/*************************************************************
+By Oren Yair
+**************************************************************/
 /*************************************************************
 LinkedList_RemoveItem: private function for inserting a node
 Memory is not being allocated or relased by this function

@@ -2,7 +2,9 @@
 #ifndef __C_LINKED_LIST_H__
 #define __C_LINKED_LIST_H__
 #endif
-
+/*************************************************************
+By Oren Yair
+**************************************************************/
 #include "Node.h"
 #define LINKED_LIST_SUCCESS                    0x00000000
 #define LINKED_LIST_ERROR_FAILED_ADDING_ITEM   0x00000001
